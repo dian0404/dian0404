@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="midnight-rose-profile.gif"
+<img src="midnight-rose-clean.gif"
      alt="Midnight Rose"
      width="100%" />
 
