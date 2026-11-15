@@ -1,3 +1,5 @@
+<img src="rose-bloom.gif" width="350" alt="Pink rose blooming"/>
+
 <h1 align="center">Hi, I'm Dian 👋</h1>
 
 <p align="center">CS @ UBC · Class of 2029</p>
