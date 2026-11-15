@@ -2,12 +2,19 @@
 
 
 <div align="center">
-  <img
-    src="rose-bloom-clean.gif"
-    alt="Pink English Garden Rose Blooming"
-    width="400"
-  />
+
+<img src="midnight-rose-profile.gif"
+     alt="Midnight Rose"
+     width="100%" />
+
+<br />
+
+<a href="https://dian-personal-website.vercel.app/">
+  Portfolio
+</a>
+
 </div>
+
 
 
 <p align="center">CS @ UBC · Class of 2029</p>
