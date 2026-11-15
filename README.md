@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I'm Dian 👋</h1>
-<img src="rose-bloom.gif" width="350" alt="Pink rose blooming"/>
+
+
+<div align="center">
+  <img
+    src="rose-bloom-clean.gif"
+    alt="Pink English Garden Rose Blooming"
+    width="400"
+  />
+</div>
+
 
 <p align="center">CS @ UBC · Class of 2029</p>
 
