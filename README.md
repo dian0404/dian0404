@@ -55,7 +55,7 @@
 
 <div align="center">✦ &nbsp; ❀ &nbsp; ✦</div>
 
-## CSSS Experience
+## Experience
 
 **CSSS — External Coordinator**<br>
 *2026 W1 – Present*
