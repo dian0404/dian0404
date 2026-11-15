@@ -3,12 +3,12 @@
   <img src="assets/rose-banner.gif" width="100%" alt="Midnight Rose — blooming rose with an antique-gold botanical frame" />
 </div>
 
-<p align="center">
+<h3 align="center">
   <a href="#about-me">About</a> &nbsp; ✦ &nbsp;
   <a href="#selected-projects">Projects</a> &nbsp; ✦ &nbsp;
   <a href="#csss-experience">CSSS Experience</a> &nbsp; ✦ &nbsp;
   <a href="https://dian-personal-website.vercel.app/">Portfolio ↗</a>
-</p>
+</h3>
 
 ---
 
@@ -66,8 +66,8 @@ External relations, partnerships, and event coordination for the Computer Scienc
 
 ## Get in Touch
 
-<p align="center">
+<h3 align="center">
   <a href="https://github.com/dian0404">GitHub</a> &nbsp; ✦ &nbsp;
   <a href="https://www.linkedin.com/in/dian-ping/">LinkedIn</a> &nbsp; ✦ &nbsp;
   <a href="mailto:pingdian16@gmail.com">Email</a>
-</p>
+</h3>
