@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="48" viewBox="0 0 380 48" role="img" aria-labelledby="title">
+  <title id="title">LOOP Hackathon 2026: 3rd Place Overall + Investly Track Prize</title>
+  <defs>
+    <linearGradient id="champagne-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8D28A"/>
+      <stop offset="0.5" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#E8D28A"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#champagne-gold)" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="600" text-anchor="middle">
+    <text x="190" y="18">LOOP Hackathon 2026:</text>
+    <text x="190" y="38">3rd Place Overall + Investly Track Prize</text>
+  </g>
+</svg>

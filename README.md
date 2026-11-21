@@ -37,7 +37,7 @@
     <h3><a href="https://github.com/TahaSaiyed08/LOOP">TFSA Gold — AI Investment Assistant</a></h3>
     AI-powered investing assistant for Canadian beginners, featuring personalized stock and ETF recommendations, investment thesis tracking, and paper trading.
     <p><b>HTML · CSS · JavaScript · n8n</b></p>
-    <p><b>LOOP Hackathon 2026:</b> 3rd Place Overall + Investly Track Prize</p>
+    <p><img src="assets/loop-award.svg" alt="LOOP Hackathon 2026: 3rd Place Overall + Investly Track Prize" /></p>
   </td>
   <td width="50%" valign="top">
     <a href="https://github.com/dian0404/AI-Image-Recognition"><img src="assets/project-1.png" width="100%" alt="Code on a laptop at a rose-decorated vintage desk" /></a>
