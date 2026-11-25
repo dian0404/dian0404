@@ -33,30 +33,30 @@
 <table>
 <tr>
   <td width="50%" valign="top">
-    <a href="https://github.com/TahaSaiyed08/LOOP"><img src="assets/project-loop-16x9.png" width="100%" alt="Laptop displaying an investment dashboard on a warm vintage desk with subtle roses" /></a>
+    <a href="https://github.com/TahaSaiyed08/LOOP"><img src="assets/project-loop-16x9.png" width="100%" alt="Investment chart, asset allocation ring, and three risk profile symbols in a vintage rose frame" /></a>
     <h3><a href="https://github.com/TahaSaiyed08/LOOP">TFSA Gold — AI Investment Assistant</a></h3>
     AI-powered investing assistant for Canadian beginners, featuring personalized stock and ETF recommendations, investment thesis tracking, and paper trading.
     <p><b>HTML · CSS · JavaScript · n8n</b></p>
     <p><img src="assets/loop-award.svg" alt="LOOP Hackathon 2026: 3rd Place Overall + Investly Track Prize" /></p>
   </td>
   <td width="50%" valign="top">
-    <a href="https://github.com/dian0404/AI-Image-Recognition"><img src="assets/project-1-16x9.png" width="100%" alt="Code on a laptop at a rose-decorated vintage desk" /></a>
+    <a href="https://github.com/dian0404/AI-Image-Recognition"><img src="assets/project-1-16x9.png" width="100%" alt="Cat and dog breed classification with breed examples" /></a>
     <h3><a href="https://github.com/dian0404/AI-Image-Recognition">AI-Image-Recognition</a></h3>
-    AI-powered image recognition with Python and deep learning.
+    Python deep learning classifier for 37 cat and dog breeds using the Oxford-IIIT Pet dataset.
     <p><b>Python</b></p>
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
-    <a href="https://github.com/dian0404/museum-memories"><img src="assets/project-2-16x9.png" width="100%" alt="Sculpture and paintings in a classical art museum" /></a>
+    <a href="https://github.com/dian0404/museum-memories"><img src="assets/project-2-16x9.png" width="100%" alt="Sun and Immortal Birds Gold Ornament with saved museum visit photographs" /></a>
     <h3><a href="https://github.com/dian0404/museum-memories">museum-memories</a></h3>
-    A Java project for exploring and managing museum collections.
+    A Java desktop app for saving, searching, and revisiting museum artifacts, photos, and personal notes.
     <p><b>Java</b></p>
   </td>
   <td width="50%" valign="top">
-    <a href="https://github.com/dian0404/data-science-project-planning"><img src="assets/project-3-16x9.png" width="100%" alt="A data analytics laptop and books surrounded by pink roses" /></a>
+    <a href="https://github.com/dian0404/data-science-project-planning"><img src="assets/project-3-16x9.png" width="100%" alt="Minecraft player data and a nearest-neighbor classification diagram" /></a>
     <h3><a href="https://github.com/dian0404/data-science-project-planning">data-science-project-planning</a></h3>
-    Data science workflow and analysis project.
+    KNN project proposal using Minecraft player experience and play hours to predict newsletter subscription.
     <p><b>HTML</b></p>
   </td>
 </tr>
