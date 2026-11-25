@@ -33,14 +33,14 @@
 <table>
 <tr>
   <td width="50%" valign="top">
-    <a href="https://github.com/TahaSaiyed08/LOOP"><div style="width:100%;aspect-ratio:16/9;overflow:hidden;border:2px solid #D4AF37;border-radius:12px;box-sizing:border-box"><img src="assets/project-loop.png" width="100%" height="100%" style="width:100%;height:100%;object-fit:cover;object-position:center" alt="Laptop displaying an investment dashboard on a warm vintage desk with subtle roses" /></div></a>
+    <a href="https://github.com/TahaSaiyed08/LOOP"><img src="assets/project-loop-16x9.png" width="100%" alt="Laptop displaying an investment dashboard on a warm vintage desk with subtle roses" /></a>
     <h3><a href="https://github.com/TahaSaiyed08/LOOP">TFSA Gold — AI Investment Assistant</a></h3>
     AI-powered investing assistant for Canadian beginners, featuring personalized stock and ETF recommendations, investment thesis tracking, and paper trading.
     <p><b>HTML · CSS · JavaScript · n8n</b></p>
     <p><img src="assets/loop-award.svg" alt="LOOP Hackathon 2026: 3rd Place Overall + Investly Track Prize" /></p>
   </td>
   <td width="50%" valign="top">
-    <a href="https://github.com/dian0404/AI-Image-Recognition"><div style="width:100%;aspect-ratio:16/9;overflow:hidden;border:2px solid #D4AF37;border-radius:12px;box-sizing:border-box"><img src="assets/project-1.png" width="100%" height="100%" style="width:100%;height:100%;object-fit:cover;object-position:center" alt="Code on a laptop at a rose-decorated vintage desk" /></div></a>
+    <a href="https://github.com/dian0404/AI-Image-Recognition"><img src="assets/project-1-16x9.png" width="100%" alt="Code on a laptop at a rose-decorated vintage desk" /></a>
     <h3><a href="https://github.com/dian0404/AI-Image-Recognition">AI-Image-Recognition</a></h3>
     AI-powered image recognition with Python and deep learning.
     <p><b>Python</b></p>
@@ -48,13 +48,13 @@
 </tr>
 <tr>
   <td width="50%" valign="top">
-    <a href="https://github.com/dian0404/museum-memories"><div style="width:100%;aspect-ratio:16/9;overflow:hidden;border:2px solid #D4AF37;border-radius:12px;box-sizing:border-box"><img src="assets/project-2.png" width="100%" height="100%" style="width:100%;height:100%;object-fit:cover;object-position:center" alt="Sculpture and paintings in a classical art museum" /></div></a>
+    <a href="https://github.com/dian0404/museum-memories"><img src="assets/project-2-16x9.png" width="100%" alt="Sculpture and paintings in a classical art museum" /></a>
     <h3><a href="https://github.com/dian0404/museum-memories">museum-memories</a></h3>
     A Java project for exploring and managing museum collections.
     <p><b>Java</b></p>
   </td>
   <td width="50%" valign="top">
-    <a href="https://github.com/dian0404/data-science-project-planning"><div style="width:100%;aspect-ratio:16/9;overflow:hidden;border:2px solid #D4AF37;border-radius:12px;box-sizing:border-box"><img src="assets/project-3.png" width="100%" height="100%" style="width:100%;height:100%;object-fit:cover;object-position:center" alt="A data analytics laptop and books surrounded by pink roses" /></div></a>
+    <a href="https://github.com/dian0404/data-science-project-planning"><img src="assets/project-3-16x9.png" width="100%" alt="A data analytics laptop and books surrounded by pink roses" /></a>
     <h3><a href="https://github.com/dian0404/data-science-project-planning">data-science-project-planning</a></h3>
     Data science workflow and analysis project.
     <p><b>HTML</b></p>
